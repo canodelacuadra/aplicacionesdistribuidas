@@ -1,0 +1,13 @@
+{
+  "cols": [
+        {"id":"","label":"Topping","pattern":"","type":"string"},
+        {"id":"","label":"Slices","pattern":"","type":"number"}
+      ],
+  "rows": [
+        {"c":[{"v":"Setas","f":null},{"v":3,"f":null}]},
+        {"c":[{"v":"Cebollas","f":null},{"v":1,"f":null}]},
+        {"c":[{"v":"Aceitunas","f":null},{"v":1,"f":null}]},
+        {"c":[{"v":"Calabacines","f":null},{"v":1,"f":null}]},
+        {"c":[{"v":"pimientos","f":null},{"v":2,"f":null}]}
+      ]
+}
